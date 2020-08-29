@@ -1,0 +1,6 @@
+classes= 2
+train  = pylone_project/train.txt
+valid  = pylone_project/test.txt
+names = pylone_project/obj.names
+backup = backup
+
